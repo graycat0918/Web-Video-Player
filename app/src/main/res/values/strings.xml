@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Web Video Player</string>
+    <string name="directory">Directory</string>
+    <string name="item">Item</string>
+    <string name="back">Back</string>
+    <string name="select">Select</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="writing">Writing</string>
+    <string name="type_name">Type name</string>
+    <string name="type_date">Type type</string>
+    <string name="type_author">Type size</string>
+    <string name="type_content">Type duration</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="caution">Caution!</string>
+    <string name="sure">Are you sure to delete?</string>
+    <string name="refresh">Refresh</string>
+    <string name="video">Video</string>
+</resources>

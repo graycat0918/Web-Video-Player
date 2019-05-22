@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="video_array_0">
+        <item>
+            喜马拉雅高山兀鹫
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/aec42ed242f76d0cf88a4b3b7858d8ba-ee0e5d8287e84977bcfcecc55a8e2486-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1553673277130/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_1">
+        <item>
+            重返森林
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/c331871b74674d43b8ef831438610a9f-a87f0a2edffb41568da2d9629df3d76a-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554185096747/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_2">
+        <item>
+            猴王争霸
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/df125e1223053212b3796ef12a647b24-5d18e425501c4ffb88a90e64ecdb62d3-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554356417782/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_3">
+        <item>
+            沙漠中的千岛湖
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/739b7a28dc43cd64743528ace6a7f165-ed0171655b1d48f6a5831712589dbd4d-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554109686292/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_4">
+        <item>
+            钱塘江
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/9449d9e50aa82c7077505d5643d67659-22ede5cff092435fae30b60909582bdb-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554272073982/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_5">
+        <item>
+            白蜡传奇
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/0ef7539b0041764cb27e838710acb40a-ba72fd54b17d47ba89d7ba75ffe24a04-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556420867875/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_6">
+        <item>
+            武功山 1
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/32d2a46e184e8ae230602ba9786d12a1-627bbafc7ba24ef98e5cd4f979fbd264-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1553587817463/efa125392cfc8ce60659a35135642245.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_7">
+        <item>
+            武功山 2
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/381d8b8f061ad7ad87684f0081c3b45e-56f5ee0af9364235b8a6ec184cba70ef-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1553587817463/efa125392cfc8ce60659a35135642245.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_8">
+        <item>
+            大山的精灵 1
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/a0775aa99be7d43f0dd5752121aefe1d-47b4ff364d414f689a2ad883766be1df-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554705739517/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_9">
+        <item>
+            大山的精灵 2
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/c65b593eaafcda47c3b02143cf8fb2c6-23a685f90c264b6ab820f22df07c749f-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554705739517/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_10">
+        <item>
+            大山的精灵 3
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/58fd278654956fe9f5faa4c1cfd15644-1e465792b1ae4e08836d569b751ccdcb-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554705739517/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_11">
+        <item>
+            大山的精灵 4
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/7a64270a653fe7b9688191c0c5b31afd-5bbaed4d28b248cf9bc58f2625664096-2.mp4
+        </item>
+        <item>
+            https://bootcdn.xuexi.cn/dyxx_5a1d70322da1335610ea6a87/1554705739517/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_12">
+        <item>
+            问水·三江源 1
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/0a29a668aa5637c6eca04e462e7cdcb5-0ba9826e957c49cc84171319c39def63-1.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556433909192/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_13">
+        <item>
+            问水·三江源 2
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/805a32af83210e5e8f347b95bf8db81e-9ccf5e6cccaa46888b031eccd5f7b39e-1.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556433909192/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_14">
+        <item>
+            黔之南 1
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/0bf28bd8b2654f3975664f962946c7ea-8f0177d5fa854c279934b4fce7b7fcf9-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556507388506/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_15">
+        <item>
+            黔之南 2
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/c6a44a1abcd5ee41df5e0e859c745a8e-6499c91aa1e247a0bcd18720bd1c6f3c-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556507388506/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_16">
+        <item>
+            黔之南 3
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/0bb565c18bb9c0f41134e9d0f5f19f48-778aa0a8ccb543f3829c748a1c3aff06-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556507388506/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_17">
+        <item>
+            黔之南 4
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/f8193b799b2e1b6977babebc811eef3b-82130ed436c742d2b39a864a800c7eb0-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556507388506/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_18">
+        <item>
+            精灵之舞 1
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/0cf1949c06054e3c0b1b48efb96af7eb-d2adc669c3244de1a173bf5bc29c1cf4-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556420437388/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+    <string-array name="video_array_19">
+        <item>
+            精灵之舞 2
+        </item>
+        <item>
+            https://video.xuexi.cn/video/1005/p/7679ce6459a8c43808b3e24678860c2c-1b231adc497448a5b13bebe7e71cdfd4-2.mp4
+        </item>
+        <item>
+            https://boot-img.xuexi.cn/lego/image/old/dyxx_5a1d70322da1335610ea6a87/1556420437388/b44280976e894df445fd752ff7c1fa32.jpg
+        </item>
+    </string-array>
+
+</resources>
