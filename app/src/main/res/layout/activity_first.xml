@@ -2,6 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
     android:orientation="vertical">
 
     <com.dry.webvideoplayer.FirstActivityTitle
@@ -16,7 +17,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/colorDarkGray"
+            android:background="@color/colorPrimary"
             android:src="@drawable/poem_2" />
 
         <LinearLayout

@@ -38,14 +38,7 @@ public class PlayActivity extends AppCompatActivity {
         videoView.start();
         videoView.setOnTouchListener(mTouchListener);
         playPauseButton.setOnClickListener(mClickListener);
-        //        if (this.getResources().getConfiguration().orientation == Configuration
-        //        .ORIENTATION_PORTRAIT) {
-        //            /* 竖屏 */
-        //            playActivityTitle.setVisibility(View.VISIBLE);
-        //        } else {
-        //            /* 横屏 */
-        //            playActivityTitle.setVisibility(View.GONE);
-        //        }
+
     }
 
     @Override

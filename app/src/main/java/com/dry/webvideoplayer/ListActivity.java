@@ -1,5 +1,7 @@
 package com.dry.webvideoplayer;
 
+import android.content.Context;
+import android.content.res.Configuration;
 import android.database.Cursor;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
@@ -89,4 +91,11 @@ public class ListActivity extends AppCompatActivity {
         }
         cursor.close();
     }
+
+    public static boolean isTablet(Context context) {
+        return (context.getResources().getConfiguration().screenLayout
+                & Configuration.SCREENLAYOUT_SIZE_MASK)
+                >= Configuration.SCREENLAYOUT_SIZE_LARGE;
+    }
+
 }
