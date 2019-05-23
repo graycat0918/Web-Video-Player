@@ -16,7 +16,6 @@ public class PlayActivityTitle extends LinearLayout {
     private ImageButton rightButton;
     private TextView centerTitle;
     private Activity activity;
-    private final int WRITE_POEM_ACTIVITY = 911;
 
     public PlayActivityTitle(final Context context, AttributeSet attrs) {
         super(context, attrs);

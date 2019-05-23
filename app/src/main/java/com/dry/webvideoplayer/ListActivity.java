@@ -1,11 +1,13 @@
 package com.dry.webvideoplayer;
 
 import android.database.Cursor;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
 import android.widget.LinearLayout;
 
 import java.util.ArrayList;
@@ -26,6 +28,9 @@ public class ListActivity extends AppCompatActivity {
     private String duration;
     private String dimensions;
 
+    private int lastPosition = 0;
+    private int lastOffset = 0;
+
     @Override
     protected void onResume() {
         super.onResume();
@@ -35,6 +40,29 @@ public class ListActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
         VideoAdapter adapter = new VideoAdapter(this, videoList);
         recyclerView.setAdapter(adapter);
+
+        // Go back last position of RecyclerView.
+        recyclerView.addOnScrollListener(new RecyclerView.OnScrollListener() {
+            @Override
+            public void onScrollStateChanged(@NonNull RecyclerView recyclerView, int newState) {
+                super.onScrollStateChanged(recyclerView, newState);
+                View topView = layoutManager.getChildAt(0);
+                // Get position when topView != null
+                if (topView != null) {
+                    lastOffset = topView.getTop();
+                    lastPosition = layoutManager.getPosition(topView);
+                    Log.v("110", "last off set: " + lastOffset);
+                    Log.v("110", "last position: " + lastPosition);
+                }
+            }
+        });
+
+        try {
+            ((LinearLayoutManager) layoutManager).scrollToPositionWithOffset(lastPosition,
+                    lastOffset);
+        } catch (Exception e) {
+            e.getStackTrace();
+        }
     }
 
     @Override
