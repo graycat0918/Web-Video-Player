@@ -37,7 +37,7 @@
 
 左侧视频列表，右侧播放页面。
 
-<img src="img/list_activity_2.png" width = "324" height = "576" alt="图片名称" />
+<img src="img/list_activity_2.png" width = "480" height = "768" alt="图片名称" />
 
 - 播放页（vertical）
 
