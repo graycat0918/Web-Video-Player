@@ -2,16 +2,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
     android:orientation="vertical">
 
-    <com.dry.webvideoplayer.PlayActivityTitle
-        android:id="@+id/play_activity_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
-    <fragment
-        android:id="@+id/play_fragment_layout"
-        android:name="com.dry.webvideoplayer.PlayFragment"
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/video_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
